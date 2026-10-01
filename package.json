@@ -1,0 +1,13 @@
+{
+    "name": "civic-ballot-upgraded",
+    "version": "2.0.0",
+    "description": "Secure Online Voting with Email Whitelisting and OTP verification",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^5.2.1",
+      "nodemailer": "^10.0.3"
+    }
+  }

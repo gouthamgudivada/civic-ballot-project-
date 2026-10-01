@@ -1,0 +1,26 @@
+{
+  "election": {
+    "name": "CGI Elections",
+    "status": "open",
+    "start": "",
+    "end": "",
+    "resultsAnnounced": true
+  },
+  "candidates": [
+    {
+      "id": "c1789032295572",
+      "name": "Chaithanya",
+      "party": "1st party"
+    },
+    {
+      "id": "c1789032305721",
+      "name": "Goutham",
+      "party": "2nd Party"
+    },
+    {
+      "id": "c1789032316256",
+      "name": "Irfan",
+      "party": "3rd Party"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "250001234",
+    "name": "Demo Voter",
+    "phone": "9876543210",
+    "email": "voter@example.com",
+    "password": "1234",
+    "hasVoted": false
+  },
+  {
+    "id": "2500031199",
+    "name": "Chaithanya",
+    "phone": "6303723744",
+    "email": "chaithanya1261@gmail.com",
+    "password": "Chaithanya",
+    "hasVoted": false
+  },
+  {
+    "id": "2500030913",
+    "name": "Irfan",
+    "phone": "9234567890",
+    "email": "irfanshaik64031@gmail.com",
+    "password": "Irfan",
+    "hasVoted": false
+  },
+  {
+    "id": "2500031595",
+    "name": "Kiran",
+    "phone": "6303723744",
+    "email": "kirankakumanu2007@gmail.com",
+    "password": "Kiran@2507518",
+    "hasVoted": false
+  }
+]
